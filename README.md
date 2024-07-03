@@ -24,7 +24,7 @@ its depths. As a quick learner, I'm excited to collaborate with clients to creat
 ## 📜 Certificates
 - [Spring Advanced](https://softuni.bg/certificates/details/168838/c79828c0)
 - [Spring Fundamentals](https://softuni.bg/certificates/details/170107/8b85b922)
-- [Spring Data](https://softuni.bg/certificates/details/170107/8b85b922)
+- [Spring Data](https://softuni.bg/certificates/details/150281/ef478492)
 - [MySQL](https://softuni.bg/certificates/details/142663/048a4edd)
 - [JS Applications](https://softuni.bg/certificates/details/139795/47179e7b)
 - [JS Advanced](https://softuni.bg/certificates/details/136706/b462a6dd)
