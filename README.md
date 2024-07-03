@@ -21,6 +21,20 @@ its depths. As a quick learner, I'm excited to collaborate with clients to creat
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📜 Certificates
+- [Spring Advanced](https://softuni.bg/certificates/details/168838/c79828c0)
+- [Spring Fundamentals](https://softuni.bg/certificates/details/170107/8b85b922)
+- [Spring Data](https://softuni.bg/certificates/details/170107/8b85b922)
+- [MySQL](https://softuni.bg/certificates/details/142663/048a4edd)
+- [JS Applications](https://softuni.bg/certificates/details/139795/47179e7b)
+- [JS Advanced](https://softuni.bg/certificates/details/136706/b462a6dd)
+- [Java OOP](https://softuni.bg/certificates/details/130922/ecf73cfa)
+- [Java Advanced](https://softuni.bg/certificates/details/123851/f05a85bc)
+- [Programming Fundamentals](https://softuni.bg/certificates/details/119677/030945c0)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ### - Languages 🔭
 <p align="center" >
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraganovTs&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
