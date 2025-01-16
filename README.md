@@ -44,12 +44,11 @@ its depths. As a quick learner, I'm excited to collaborate with clients to creat
 
 
 ### - Stats ⚡️
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/DraganovTs/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DraganovTs&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
-  </tr>
-</table>
 <br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DraganovTs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
